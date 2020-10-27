@@ -1,5 +1,5 @@
 # pl.spoj.com_InSwift
-
+```
 Każdy plik ma nagłówek np: PRIME_T.swift
 
 #!/usr/bin/env xcrun swift                   <- 'shebang' umożliwia uruchomienie pliku wkonywalnego komendą 'chmod ug+x PRIME_T.swift && ./PRIME_T' jako skrypt 
@@ -29,3 +29,4 @@ Połowa..........................POL
 Predkość średnia................VSR
 Zliczacz liter..................JZLICZ
 Średnia arytmetyczna............WWO_01_16
+```
